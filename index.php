@@ -1,3 +1,2 @@
 <h1>Hello Word</h1>
 <h1>Bé Đan Chào Anh Triết Ạ</h1>
-<h2>Xin chào</h2>
