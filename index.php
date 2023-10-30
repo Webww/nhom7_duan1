@@ -6,6 +6,6 @@
     <title>Home</title>
 </head>
 <body>
-    <h1>Nguyễn Minh Triết</h1>
+    <h1 style="width:100px; height:100px; border:1px solid red; padding:50px;">Xin Chào</h1>
 </body>
 </html>
